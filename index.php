@@ -8,6 +8,11 @@
     <title>Home | Hypackel</title>
 </head>
 <body>
-    
+    <div align="center" >
+        <h1>Hello</h1>
+    </div>
+    <script>
+        window.location.replace("/home.php");
+    </script>
 </body>
 </html>
